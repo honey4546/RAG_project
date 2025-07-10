@@ -1,0 +1,8 @@
+streamlit-option-menu
+PyPDF2
+scikit-learn
+numpy
+transformers
+torch
+groq
+streamlit
